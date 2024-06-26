@@ -1,2 +1,5 @@
+*.jpg
+*.png
 __pycache__
 *.onnx
+Telos/models
